@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.box{
+   
+    background-image: url(/assets/image/Skill.jpg);
+    background-repeat: no-repeat;
+    height: 106vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0px;
+    left: 0%;
+    bottom: 0%;
+    right: 0%;
+    
+    
+   
+   
+}
+#box1{
+    height: 400px;
+    width: 500px;
+    background-color: gray;
+    color: rgb(0, 0, 0);
+    font-size:50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-weight: 900;
+    border-radius: 15px;
+    opacity: 0.8;
+
+    
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+    text-decoration: underline;
+    
+
+}

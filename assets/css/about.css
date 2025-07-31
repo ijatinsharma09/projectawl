@@ -1,0 +1,36 @@
+body{
+    background-size: 500px;
+    
+    
+}
+.container{
+    background-color: rgb(75, 73, 73);
+    font-size: xx-large;
+    height: 500px;
+    width: 700px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    opacity: 0.9;
+    border-radius: 15px;
+    
+    
+    
+}
+#about{
+    position: absolute;
+    top: 30px;
+    font-weight: bolder;
+    box-shadow: 20;
+    filter:brightness(100%);
+    filter: (100%);
+    text-align: justify;
+    
+
+}
+h1{
+    text-decoration:underline;
+    text-align: center;
+    
+}
